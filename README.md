@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am in the 3rd year of Computer Engineering at Ege University. For now, I am interested in frontend. After experiencing other fields, I want to decide on my field..
+I am in the 3rd year of Computer Engineering at Ege University. For now, I am interested in frontend. After experiencing other fields, I want to decide on my field.
 
 
 ## 🌐 Socials:
