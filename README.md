@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am in the 3nd year of Computer Engineering at Ege University. For now, I am interested in frontend. After experiencing other fields, I want to decide on my field..
+I am in the 3rd year of Computer Engineering at Ege University. For now, I am interested in frontend. After experiencing other fields, I want to decide on my field..
 
 
 ## 🌐 Socials:
@@ -15,8 +15,3 @@ I am in the 3nd year of Computer Engineering at Ege University. For now, I am in
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-### 😂 Random Dev Meme
-<img src="https://rm.up.railway.app/" width="512px"/>
-
----
-[![](https://visitcount.itsvg.in/api?id=eda-akkaya&icon=0&color=0)](https://visitcount.itsvg.in)
