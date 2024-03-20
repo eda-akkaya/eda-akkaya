@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am in the 3rd year of Computer Engineering at Ege University. For now, I am interested in full stack development and artificial intelligence. 
+I am in the 3rd year of Computer Engineering at Ege University. For now, I am interested in full stack development. 
 
 
 ## 🌐 Socials:
