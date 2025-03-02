@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am in the 4th year of Computer Engineering at Ege University. For now, I am interested in data science. 
+I am in the 4th year of Computer Engineering at Ege University. I am interested in data science. 
 
 
 ## 🌐 Socials:
