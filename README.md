@@ -11,8 +11,6 @@ Hackerrank: https://www.hackerrank.com/profile/edaakkaya<br>
 Kaggle: https://www.kaggle.com/edaakkaya7<br>
 
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/eda-akkaya/) 
 
 # 💻 Tech Stack:
 ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) 
