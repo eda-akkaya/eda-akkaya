@@ -5,7 +5,10 @@ Hi, I'm Eda !<br>
 I am in the 4th year of Computer Engineering at Ege University. I am interested in data science.<br>
 🔭 I’m currently working on Crime Profiling and Demographic Risk Investigation with Machine Learning and Network Analysis (Thesis)<br>
 🌱 I’m currently learning advanced Python and statistics for data science<br>
-📫 How to reach me :<br>https://www.linkedin.com/in/eda-akkaya/<br>https://www.hackerrank.com/profile/edaakkaya
+📫 How to reach me :<br>
+https://www.linkedin.com/in/eda-akkaya/<br>
+https://www.hackerrank.com/profile/edaakkaya<br>
+https://www.kaggle.com/edaakkaya7<br>
 
 
 ## 🌐 Socials:
