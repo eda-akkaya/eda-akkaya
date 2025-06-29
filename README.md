@@ -4,7 +4,7 @@ Hi, I'm Eda !<br>
 "Data-Driven, Detail-Oriented, and Always Learning"<br>
 I am in the 4th year of Computer Engineering at Ege University. I am interested in software development and data science.<br>
 🔭 I’m currently working on Crime Profiling and Demographic Risk Investigation with Machine Learning and Network Analysis (Thesis)<br>
-🌱 I’m currently learning advanced Python and statistics for data science<br>
+🌱 I’m currently improving myself backend development <br>
 📫 How to reach me :<br>
 Linkedin: https://www.linkedin.com/in/eda-akkaya/<br>
 Hackerrank: https://www.hackerrank.com/profile/edaakkaya<br>
