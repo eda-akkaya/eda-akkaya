@@ -5,7 +5,7 @@ Hi, I'm Eda !<br>
 
 
 I graduated from Computer Engineering at Ege University. I am interested in software development and data science.<br>
-🔭 I’m currently working on my MyWisePath project. In this project, the chatbot creates a personalized roadmap and keeps track of it. <br>
+🔭 I’m currently working on my MyWisePath project. In this project, the chatbot creates a personalized roadmap for the discipline the user wants to learn and keeps track of it. <br>
 🌱 I’m currently improving myself backend development <br>
 📫 How to reach me :<br>
 Linkedin: https://www.linkedin.com/in/eda-akkaya/<br>
