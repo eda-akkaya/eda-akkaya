@@ -12,18 +12,15 @@ I mostly work with **Java, Spring Boot, SQL, and REST APIs**, and I also explore
 - 🌱 Currently improving my skills in **Spring Boot**
 
 
-📫 How to reach me :<br>
-Linkedin: https://www.linkedin.com/in/eda-akkaya/<br>
-Hackerrank: https://www.hackerrank.com/profile/edaakkaya<br>
-Kaggle: https://www.kaggle.com/edaakkaya7<br>
-
 
 # 💻 Tech Stack:
 - **Languages:** Java, Python, SQL  
 - **Frameworks:** Spring Boot, Hibernate  
 - **Databases:** MySQL, PostgreSQL, MSSQL  
 - **Tools:** Git, GitHub, Power BI  
-- **Data Science:** Pandas, NumPy, Matplotlib
+- **Data Science:** Pandas, NumPy, Matplotlib<br>
+
+  
 ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) 
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white) 
 ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=flat&logo=microsoft%20sql%20server&logoColor=white) 
@@ -38,6 +35,11 @@ Kaggle: https://www.kaggle.com/edaakkaya7<br>
 ![](https://github-readme-stats.vercel.app/api?username=eda-akkaya&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=eda-akkaya&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=eda-akkaya&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+#📫 How to reach me :<br>
+Linkedin: https://www.linkedin.com/in/eda-akkaya/<br>
+Hackerrank: https://www.hackerrank.com/profile/edaakkaya<br>
+Kaggle: https://www.kaggle.com/edaakkaya7<br>
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
