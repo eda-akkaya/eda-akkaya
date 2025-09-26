@@ -1,12 +1,26 @@
 # 💫 About Me:
 
-Hi, I'm Eda !<br>
-"Data-Driven, Detail-Oriented, and Always Learning"<br>
+# Hi, I'm Eda 👋
+
+"Detail-Oriented, and Always Learning"
+
+I'm a Computer Engineer and Backend Developer passionate about building scalable and secure applications.  
+I mostly work with **Java, Spring Boot, SQL, and REST APIs**, and I also explore **Data Science and AI**.
+
+## 🔎 About Me
+- 🎓 Computer Engineering (B.Sc.), Ege University – Graduated: June 2025
+- 💻 Interested in **Backend Development, System Design, and Microservices**
+- 📊 Also experienced in **Data Analytics, Power BI, and Machine Learning**
+- 🌱 Currently improving my skills in **Spring Boot**
+
+## ⚙️ Tech Stack
+- **Languages:** Java, Python, SQL  
+- **Frameworks:** Spring Boot, Hibernate  
+- **Databases:** MySQL, PostgreSQL, MSSQL  
+- **Tools:** Git, GitHub, Power BI  
+- **Data Science:** Pandas, NumPy, Matplotlib
 
 
-I graduated from Computer Engineering at Ege University. I am interested in software development and data science.<br>
-🔭 I’m currently working on my MyWisePath project. In this project, the chatbot creates a personalized roadmap for the discipline the user wants to learn and keeps track of it. <br>
-🌱 I’m currently improving myself backend development <br>
 📫 How to reach me :<br>
 Linkedin: https://www.linkedin.com/in/eda-akkaya/<br>
 Hackerrank: https://www.hackerrank.com/profile/edaakkaya<br>
