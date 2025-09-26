@@ -13,7 +13,7 @@ I mostly work with **Java, Spring Boot, SQL, and REST APIs**, and I also explore
 
 
 
-# 💻 Tech Stack:
+## 💻 Tech Stack:
 - **Languages:** Java, Python, SQL  
 - **Frameworks:** Spring Boot, Hibernate  
 - **Databases:** MySQL, PostgreSQL, MSSQL  
@@ -30,9 +30,9 @@ I mostly work with **Java, Spring Boot, SQL, and REST APIs**, and I also explore
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=flat&logo=scikit-learn&logoColor=white) 
 ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=flat&logo=scipy&logoColor=%white) 
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white) 
-![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=flat&logo=notion&logoColor=white)
+![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=flat&logo=notion&logoColor=white)<br>
 
-#📫 How to reach me :<br>
+##📫 How to reach me :<br>
 Linkedin: https://www.linkedin.com/in/eda-akkaya/<br>
 Hackerrank: https://www.hackerrank.com/profile/edaakkaya<br>
 Kaggle: https://www.kaggle.com/edaakkaya7<br>
