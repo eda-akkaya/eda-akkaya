@@ -32,13 +32,14 @@ I mostly work with **Java, Spring Boot, SQL, and REST APIs**, and I also explore
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white) 
 ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=flat&logo=notion&logoColor=white)<br>
 
-##📫 How to reach me :<br>
+
+## 📫 How to reach me :
 Linkedin: https://www.linkedin.com/in/eda-akkaya/<br>
 Hackerrank: https://www.hackerrank.com/profile/edaakkaya<br>
 Kaggle: https://www.kaggle.com/edaakkaya7<br>
 
 
-# 📊 GitHub Stats:
+## 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=eda-akkaya&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=eda-akkaya&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=eda-akkaya&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
