@@ -11,13 +11,6 @@ I mostly work with **Java, Spring Boot, SQL, and REST APIs**, and I also explore
 - 📊 Also experienced in **Data Analytics, Power BI, and Machine Learning**
 - 🌱 Currently improving my skills in **Spring Boot**
 
-## ⚙️ Tech Stack
-- **Languages:** Java, Python, SQL  
-- **Frameworks:** Spring Boot, Hibernate  
-- **Databases:** MySQL, PostgreSQL, MSSQL  
-- **Tools:** Git, GitHub, Power BI  
-- **Data Science:** Pandas, NumPy, Matplotlib
-
 
 📫 How to reach me :<br>
 Linkedin: https://www.linkedin.com/in/eda-akkaya/<br>
@@ -25,8 +18,12 @@ Hackerrank: https://www.hackerrank.com/profile/edaakkaya<br>
 Kaggle: https://www.kaggle.com/edaakkaya7<br>
 
 
-
 # 💻 Tech Stack:
+- **Languages:** Java, Python, SQL  
+- **Frameworks:** Spring Boot, Hibernate  
+- **Databases:** MySQL, PostgreSQL, MSSQL  
+- **Tools:** Git, GitHub, Power BI  
+- **Data Science:** Pandas, NumPy, Matplotlib
 ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) 
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white) 
 ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=flat&logo=microsoft%20sql%20server&logoColor=white) 
