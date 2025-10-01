@@ -5,6 +5,8 @@
 I'm a Computer Engineer and Backend Developer passionate about building scalable and secure applications.  
 I mostly work with **Java, Spring Boot, SQL, and REST APIs**, and I also explore **Data Science and AI**.
 
+I am currently in two Java trainings: Turkcell Geleceği Yazanlar 4.5 Java and EPAM Systems' Java Engineer Training.  
+
 ## 🔎 About Me
 - 🎓 Computer Engineering (B.Sc.), Ege University – Graduated: June 2025
 - 💻 Interested in **Backend Development, System Design, and Microservices**
