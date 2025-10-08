@@ -51,4 +51,4 @@ Kaggle: https://www.kaggle.com/edaakkaya7<br>
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 
-
+![snake_gif](https://github.com/eda-akkaya/eda-akkaya/blob/output/github-contribution-grid-snake.svg)
