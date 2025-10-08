@@ -52,3 +52,4 @@ Kaggle: https://www.kaggle.com/edaakkaya7<br>
 
 
 ![snake_gif](https://github.com/eda-akkaya/eda-akkaya/blob/output/github-contribution-grid-snake.svg)
+![snake_gif](https://github.com/eda-akkaya/eda-akkaya/blob/output/github-contribution-grid-snake-dark.svg)
