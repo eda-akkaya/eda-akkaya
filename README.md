@@ -13,7 +13,7 @@ I am currently in two Java trainings: Turkcell Geleceği Yazanlar 4.5 Java and E
 - 📊 Also experienced in **Data Analytics, Power BI, and Machine Learning**
 - 🌱 Currently improving my skills in **Spring Boot**
 
-
+[edas-other-projects](https://github.com/edas-other-projects)
 
 ## 💻 Tech Stack:
 - **Languages:** Java, Python, SQL  
@@ -50,5 +50,5 @@ Kaggle: https://www.kaggle.com/edaakkaya7<br>
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-[edas-other-projects](https://github.com/edas-other-projects)
+
 
