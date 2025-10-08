@@ -49,3 +49,6 @@ Kaggle: https://www.kaggle.com/edaakkaya7<br>
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+[edas-other-projects](https://github.com/edas-other-projects)
+
