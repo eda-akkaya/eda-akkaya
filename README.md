@@ -16,9 +16,9 @@ I am currently in two Java trainings: Turkcell Geleceği Yazanlar 4.5 Java and E
 [edas-other-projects](https://github.com/edas-other-projects)
 
 ## 💻 Tech Stack:
-- **Languages:** Java, Python, SQL  
+- **Languages:** Java, Python
 - **Frameworks:** Spring Boot, Hibernate  
-- **Databases:** MySQL, PostgreSQL, MSSQL  
+- **Databases:** SQL, MySQL, PostgreSQL, MSSQL  
 - **Tools:** Git, GitHub, Power BI  
 - **Data Science:** Pandas, NumPy, Matplotlib<br>
 
