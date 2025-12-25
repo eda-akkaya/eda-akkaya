@@ -11,7 +11,7 @@ Turkcell Geleceği Yazanlar 4.5-Java
 EPAM Systems - Java Introduction
 
 ## 🔎 About Me
-- 🎓 Computer Engineering (B.Sc.), Ege University – Graduated: June 2025
+- 🎓 Computer Engineering (B.Sc.), Ege University – 2021-2025
 - 💻 Interested in **Backend Development, System Design, and Microservices**
 - 📊 Also experienced in **Data Analytics, Power BI, and Machine Learning**
 - 🌱 Currently improving my skills in **Spring Boot**
