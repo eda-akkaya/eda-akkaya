@@ -18,7 +18,7 @@ Previously completed trainings:
 - 🎓 Computer Engineering (B.Sc.), Ege University – 2021-2025
 - 💻 Interested in **Backend Development, System Design, and Microservices**
 - 📊 Also experienced in **Data Analytics, Power BI, and Machine Learning**
-- 🌱 Currently improving my skills in **Spring Boot**
+- 🌱 Currently improving my skills in **Spring Boot** and **Data Science**
 
 [edas-other-projects](https://github.com/edas-other-projects)
 
