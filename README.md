@@ -5,10 +5,10 @@
 I'm a Computer Engineer and Backend Developer passionate about building scalable and secure applications.  
 I mostly work with **Java, Spring Boot, SQL, and REST APIs**, and I also explore **Data Science and AI**.
 
-I am currently in these trainings: 
+I continue these trainings: 
 - EPAM Systems - Java Web Development Program 
 - Google - Yapay Zeka ve Teknoloji Akademisi (Google AI and Technology Academy)
-- Garanti BBVA & UPSCHOOL - Teknolojide Güvenlik Akademisi 2026 (Academy of Security in Technology)
+- Garanti BBVA & UP School - Teknolojide Güvenlik Akademisi 2026 (Academy of Security in Technology)
   
 Previously completed trainings:
 - Turkcell Geleceği Yazanlar 4.5-Java
