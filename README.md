@@ -11,8 +11,8 @@ I am currently in these trainings:
 - Garanti BBVA & UPSCHOOL - Teknolojide Güvenlik Akademisi 2026 (Academy of Security in Technology)
   
 Previously completed trainings:
-Turkcell Geleceği Yazanlar 4.5-Java
-EPAM Systems - Java Introduction
+- Turkcell Geleceği Yazanlar 4.5-Java
+- EPAM Systems - Java Introduction
 
 ## 🔎 About Me
 - 🎓 Computer Engineering (B.Sc.), Ege University – 2021-2025
@@ -52,6 +52,8 @@ Kaggle: https://www.kaggle.com/edaakkaya7<br>
 ![](https://github-readme-stats.vercel.app/api?username=eda-akkaya&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=eda-akkaya&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=eda-akkaya&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)<br/>
+![Top Languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=eda-akkaya&layout=compact)
+
 
 
 ### ✍️ Random Dev Quote
