@@ -5,7 +5,11 @@
 I'm a Computer Engineer and Backend Developer passionate about building scalable and secure applications.  
 I mostly work with **Java, Spring Boot, SQL, and REST APIs**, and I also explore **Data Science and AI**.
 
-I am currently in two trainings: EPAM Systems' Java Web Development Program and Google Yapay Zeka ve Teknoloji Akademisi (Google AI and Technology Academy).  
+I am currently in these trainings: 
+- EPAM Systems - Java Web Development Program 
+- Google - Yapay Zeka ve Teknoloji Akademisi (Google AI and Technology Academy)
+- Garanti BBVA & UPSCHOOL - Teknolojide Güvenlik Akademisi 2026 (Academy of Security in Technology)
+  
 Previously completed trainings:
 Turkcell Geleceği Yazanlar 4.5-Java
 EPAM Systems - Java Introduction
@@ -47,8 +51,7 @@ Kaggle: https://www.kaggle.com/edaakkaya7<br>
 ## 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=eda-akkaya&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=eda-akkaya&theme=dark&hide_border=false)<br/>
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=eda-akkaya&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=eda-akkaya&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)<br/>
 
 
 ### ✍️ Random Dev Quote
