@@ -52,7 +52,8 @@ Kaggle: https://www.kaggle.com/edaakkaya7<br>
 ![](https://github-readme-stats.vercel.app/api?username=eda-akkaya&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=eda-akkaya&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=eda-akkaya&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)<br/>
-![Top Languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=eda-akkaya&layout=compact)
+![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=eda-akkaya&layout=compact)
+
 
 
 
