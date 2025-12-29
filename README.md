@@ -1,8 +1,8 @@
 # Hi, I'm Eda 👋
 
-"Detail-Oriented and Always Learning"
+"Detail-oriented. Always learning"
 
-I'm a Computer Engineer and Backend Developer passionate about building scalable and secure applications.  
+I'm a Computer Engineer/Backend Developer passionate about building scalable and secure applications.  
 I mostly work with **Java, Spring Boot, SQL, and REST APIs**, and I also explore **Data Science and AI**.
 
 I continue these trainings: 
