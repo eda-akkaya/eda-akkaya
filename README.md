@@ -8,7 +8,6 @@ I mostly work with **Java, Spring Boot, SQL, and REST APIs**, and I also explore
 I continue these trainings: 
 - EPAM Systems - Java Web Development Program 
 - Google - Yapay Zeka ve Teknoloji Akademisi (Google AI and Technology Academy)
-- Garanti BBVA & UP School - Teknolojide Güvenlik Akademisi 2026 (Academy of Security in Technology)
   
 Previously completed trainings:
 - Turkcell Geleceği Yazanlar 4.5-Java
