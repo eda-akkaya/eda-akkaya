@@ -6,7 +6,6 @@ I'm a Computer Engineer/Backend Developer passionate about building scalable and
 I mostly work with **Java, Spring Boot, SQL, and REST APIs**, and I also explore **Data Science and AI**.
 
 I continue these trainings: 
-- EPAM Systems - Java Web Development Program 
 - Google - Yapay Zeka ve Teknoloji Akademisi (Google AI and Technology Academy)
   
 Previously completed trainings:
